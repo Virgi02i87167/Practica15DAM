@@ -1,2 +1,2 @@
 Instalar npm init -y
-npm install electron firebase
+luego npm install electron firebase
